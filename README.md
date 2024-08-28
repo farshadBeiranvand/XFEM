@@ -1,6 +1,7 @@
 # XFEM Buckling Analysis
 
 This MATLAB script performs an analysis of buckling and in-plane behavior of a graphene sheet, considering non-local effects using the XFEM (Extended Finite Element Method). 
+For any inquiries or questions, please contact: farshadbeyranvand9@gmail.com
 
 ## Introduction
 XFEM extends the Finite Element Method (FEM) to tackle complex geometries, material interfaces, and cracks without mesh refinement. It excels in modeling crack propagation, material interfaces, and heterogeneous materials accurately. This script explores XFEM's application in analyzing the mechanical behavior of graphene sheets, essential in nanotechnology. It considers non-local effects, offering insights into buckling and in-plane behavior for graphene-based structure design and optimization
